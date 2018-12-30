@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "komika-axis";
+  src: url("./../../assets/KOMIKAX_.ttf");
+}
+
+input {
+  background-color: #FF9207;
+  color: #000;
+  border: 1px solid #000;
+}
+
+input::placeholder {
+  color: #000;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  background-color: #000;
+  color: #FF9207;
+}
+
+.input-data {
+  justify-content: center;
+  margin: 0;
+  min-width: 100%;
+}
+
+.data-holder {
+  font-family: 'komika-axis', sans-serif;
+  display: flex;
+  justify-content: space-around;
+}
+
+.display-data {
+  justify-content: center;
+  margin: 0;
+  min-width: 100%;
+  margin: .25rem 0 .25rem 0;
+}

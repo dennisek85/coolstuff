@@ -1,0 +1,27 @@
+<div class="row input-data">
+  <input
+    class="col-4 mr-1 mt-1"
+    type="text"
+    placeholder="Change color:"
+    (input)="onColorInput($event)">
+  <input
+    class="col-4 mr-1 mt-1"
+    type="text"
+    placeholder="Change number:"
+    (input)="onNumberInput($event)">
+  <button
+    class="btn btn-dark mt-1"
+    (click)="onSaveInput()">Save!</button>
+</div>
+<div class="row display-data">
+  <div class="col-3">
+    <span class="data-holder">Color: </span>
+    <span *ngIf="this.info.length; else loading" class="data-holder" [innerText]="currentColor"></span>
+    <ng-template #loading><span class="data-holder">Calling MongoDB</span></ng-template>
+  </div>
+  <div class="col-3">
+    <span class="data-holder">Number: </span>
+    <span *ngIf="this.info.length; else loading" class="data-holder" [innerText]="currentNumber"></span>
+    <ng-template #loading><span class="data-holder">Calling MongoDB</span></ng-template>
+  </div>
+</div>
