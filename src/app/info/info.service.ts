@@ -15,7 +15,6 @@ export class InfoService {
   }
 
   updateInfo(colorInDb, color, number) {
-    console.log('Firing updateInfo()')
     const data = {
       color: color,
       number: number

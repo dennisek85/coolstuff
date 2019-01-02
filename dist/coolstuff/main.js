@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "@font-face {\r\n  font-family: \"komika-axis\";\r\n  src: url('KOMIKAX_.ttf');\r\n}\r\n\r\n.box-holder {\r\n  display: flex;\r\n  background-color: #FF9207;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  justify-content: center;\r\n  width: 100%;\r\n}\r\n\r\n.title {\r\n  color:#000;\r\n  font-family: 'komika-axis', sans-serif;\r\n  font-weight: 500;\r\n  line-height: 1.2;\r\n  font-size: 2.5rem;\r\n  margin-bottom: 0.3em;\r\n}\r\n\r\n.box {\r\n  border: 1px solid #000;\r\n  flex-direction: column;\r\n  justify-content: center;\r\n  min-width: 400px;\r\n}\r\n\r\n.holder {\r\n  display: flex;\r\n  justify-content: center;\r\n  margin: 0;\r\n}\r\n\r\nmain {\r\n  display: flex;\r\n  flex-grow: 1;\r\n}\r\n\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSwyQkFBMkI7RUFDM0IseUJBQXFDO0NBQ3RDOztBQUVEO0VBQ0UsY0FBYztFQUNkLDBCQUEwQjtFQUMxQix1QkFBdUI7RUFDdkIsb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4QixZQUFZO0NBQ2I7O0FBRUQ7RUFDRSxXQUFXO0VBQ1gsdUNBQXVDO0VBQ3ZDLGlCQUFpQjtFQUNqQixpQkFBaUI7RUFDakIsa0JBQWtCO0VBQ2xCLHFCQUFxQjtDQUN0Qjs7QUFFRDtFQUNFLHVCQUF1QjtFQUN2Qix1QkFBdUI7RUFDdkIsd0JBQXdCO0VBQ3hCLGlCQUFpQjtDQUNsQjs7QUFFRDtFQUNFLGNBQWM7RUFDZCx3QkFBd0I7RUFDeEIsVUFBVTtDQUNYOztBQUVEO0VBQ0UsY0FBYztFQUNkLGFBQWE7Q0FDZCIsImZpbGUiOiIuLi9zcmMvYXBwL2FwcC5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGZvbnQtZmFjZSB7XHJcbiAgZm9udC1mYW1pbHk6IFwia29taWthLWF4aXNcIjtcclxuICBzcmM6IHVybChcIi4vLi4vYXNzZXRzL0tPTUlLQVhfLnR0ZlwiKTtcclxufVxyXG5cclxuLmJveC1ob2xkZXIge1xyXG4gIGRpc3BsYXk6IGZsZXg7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogI0ZGOTIwNztcclxuICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbn1cclxuXHJcbi50aXRsZSB7XHJcbiAgY29sb3I6IzAwMDtcclxuICBmb250LWZhbWlseTogJ2tvbWlrYS1heGlzJywgc2Fucy1zZXJpZjtcclxuICBmb250LXdlaWdodDogNTAwO1xyXG4gIGxpbmUtaGVpZ2h0OiAxLjI7XHJcbiAgZm9udC1zaXplOiAyLjVyZW07XHJcbiAgbWFyZ2luLWJvdHRvbTogMC4zZW07XHJcbn1cclxuXHJcbi5ib3gge1xyXG4gIGJvcmRlcjogMXB4IHNvbGlkICMwMDA7XHJcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxuICBtaW4td2lkdGg6IDQwMHB4O1xyXG59XHJcblxyXG4uaG9sZGVyIHtcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xyXG4gIG1hcmdpbjogMDtcclxufVxyXG5cclxubWFpbiB7XHJcbiAgZGlzcGxheTogZmxleDtcclxuICBmbGV4LWdyb3c6IDE7XHJcbn1cclxuIl19 */"
+module.exports = "@font-face {\r\n  font-family: \"komika-axis\";\r\n  src: url('KOMIKAX_.ttf');\r\n}\r\n\r\n.box-holder {\r\n  display: flex;\r\n  background-color: #EDEEF0;\r\n  flex-direction: column;\r\n  align-items: center;\r\n  justify-content: center;\r\n  width: 100%;\r\n}\r\n\r\n.title {\r\n  color:#FF9207;\r\n  font-family: 'komika-axis', sans-serif;\r\n  font-weight: 500;\r\n  line-height: 1.2;\r\n  font-size: 2.5rem;\r\n  margin-bottom: 0.3em;\r\n}\r\n\r\n.box {\r\n  border: 1px solid #000;\r\n  flex-direction: column;\r\n  justify-content: center;\r\n  min-width: 400px;\r\n}\r\n\r\n.holder {\r\n  background-color: #FF9207;\r\n  display: flex;\r\n  justify-content: center;\r\n  margin: 0;\r\n}\r\n\r\nmain {\r\n  display: flex;\r\n  flex-grow: 1;\r\n}\r\n\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSwyQkFBMkI7RUFDM0IseUJBQXFDO0NBQ3RDOztBQUVEO0VBQ0UsY0FBYztFQUNkLDBCQUEwQjtFQUMxQix1QkFBdUI7RUFDdkIsb0JBQW9CO0VBQ3BCLHdCQUF3QjtFQUN4QixZQUFZO0NBQ2I7O0FBRUQ7RUFDRSxjQUFjO0VBQ2QsdUNBQXVDO0VBQ3ZDLGlCQUFpQjtFQUNqQixpQkFBaUI7RUFDakIsa0JBQWtCO0VBQ2xCLHFCQUFxQjtDQUN0Qjs7QUFFRDtFQUNFLHVCQUF1QjtFQUN2Qix1QkFBdUI7RUFDdkIsd0JBQXdCO0VBQ3hCLGlCQUFpQjtDQUNsQjs7QUFFRDtFQUNFLDBCQUEwQjtFQUMxQixjQUFjO0VBQ2Qsd0JBQXdCO0VBQ3hCLFVBQVU7Q0FDWDs7QUFFRDtFQUNFLGNBQWM7RUFDZCxhQUFhO0NBQ2QiLCJmaWxlIjoiLi4vc3JjL2FwcC9hcHAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBmb250LWZhY2Uge1xyXG4gIGZvbnQtZmFtaWx5OiBcImtvbWlrYS1heGlzXCI7XHJcbiAgc3JjOiB1cmwoXCIuLy4uL2Fzc2V0cy9LT01JS0FYXy50dGZcIik7XHJcbn1cclxuXHJcbi5ib3gtaG9sZGVyIHtcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGJhY2tncm91bmQtY29sb3I6ICNFREVFRjA7XHJcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xyXG4gIHdpZHRoOiAxMDAlO1xyXG59XHJcblxyXG4udGl0bGUge1xyXG4gIGNvbG9yOiNGRjkyMDc7XHJcbiAgZm9udC1mYW1pbHk6ICdrb21pa2EtYXhpcycsIHNhbnMtc2VyaWY7XHJcbiAgZm9udC13ZWlnaHQ6IDUwMDtcclxuICBsaW5lLWhlaWdodDogMS4yO1xyXG4gIGZvbnQtc2l6ZTogMi41cmVtO1xyXG4gIG1hcmdpbi1ib3R0b206IDAuM2VtO1xyXG59XHJcblxyXG4uYm94IHtcclxuICBib3JkZXI6IDFweCBzb2xpZCAjMDAwO1xyXG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XHJcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgbWluLXdpZHRoOiA0MDBweDtcclxufVxyXG5cclxuLmhvbGRlciB7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogI0ZGOTIwNztcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xyXG4gIG1hcmdpbjogMDtcclxufVxyXG5cclxubWFpbiB7XHJcbiAgZGlzcGxheTogZmxleDtcclxuICBmbGV4LWdyb3c6IDE7XHJcbn1cclxuIl19 */"
 
 /***/ }),
 
@@ -91,11 +91,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/platform-browser */ "./node_modules/@angular/platform-browser/fesm5/platform-browser.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm5/forms.js");
-/* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
-/* harmony import */ var _info_info_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./info/info.component */ "./src/app/info/info.component.ts");
-/* harmony import */ var _info_info_service__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./info/info.service */ "./src/app/info/info.service.ts");
-
+/* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
+/* harmony import */ var _info_info_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./info/info.component */ "./src/app/info/info.component.ts");
+/* harmony import */ var _info_info_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./info/info.service */ "./src/app/info/info.service.ts");
 
 
 
@@ -109,16 +107,15 @@ var AppModule = /** @class */ (function () {
     AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
             declarations: [
-                _app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"],
-                _info_info_component__WEBPACK_IMPORTED_MODULE_6__["InfoComponent"]
+                _app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"],
+                _info_info_component__WEBPACK_IMPORTED_MODULE_5__["InfoComponent"]
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
-                _angular_common_http__WEBPACK_IMPORTED_MODULE_3__["HttpClientModule"],
-                _angular_forms__WEBPACK_IMPORTED_MODULE_4__["FormsModule"]
+                _angular_common_http__WEBPACK_IMPORTED_MODULE_3__["HttpClientModule"]
             ],
-            providers: [_info_info_service__WEBPACK_IMPORTED_MODULE_7__["InfoService"]],
-            bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"]]
+            providers: [_info_info_service__WEBPACK_IMPORTED_MODULE_6__["InfoService"]],
+            bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
         })
     ], AppModule);
     return AppModule;
@@ -242,7 +239,6 @@ var InfoService = /** @class */ (function () {
         return this.http.get('/api/coolstuff');
     };
     InfoService.prototype.updateInfo = function (colorInDb, color, number) {
-        console.log('Firing updateInfo()');
         var data = {
             color: color,
             number: number
